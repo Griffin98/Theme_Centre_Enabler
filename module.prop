@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=Theme_Center_Enabler
+name=Theme Center Enabler
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Griffin98
+description=This Module Systemlessly Enables Theme Center for S7Edge/Note7/Grace UX Port Rom for galaxy devices.!!
 template=3
